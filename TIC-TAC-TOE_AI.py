@@ -1,6 +1,5 @@
-TIC-TAC-TOE AI                                                                                                                                                                                                         import math
-
-
+#TIC-TAC-TOE AI                                                                                                                                                                                                         import math
+import math
 def print_board(board):
     for row in board:
         print(" | ".join(row))
